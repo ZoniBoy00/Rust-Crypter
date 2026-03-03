@@ -1,7 +1,7 @@
 # 🦀 Rust Crypter v1.0.0
 
 ![Rust](https://img.shields.io/badge/language-Rust-orange.svg) 
-![License](https://img.shields.io/badge/license-Educational-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Production--Ready-success.svg)
 ![Detection](https://img.shields.io/badge/Detection-3%2F71-brightgreen.svg)
 
