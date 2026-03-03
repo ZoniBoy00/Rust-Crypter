@@ -1,0 +1,24 @@
+# Rust artifacts
+target/
+debug/
+release/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Crypter specific artifacts (don't push your encrypted payloads/keys)
+stub/src/encrypted.bin
+stub/src/key.txt
+output.txt
+gen_strings.rs
+gen_strings.exe
+
+# Cargo Lock files
+# Cargo.lock

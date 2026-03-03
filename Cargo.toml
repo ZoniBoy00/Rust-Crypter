@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "builder",
+    "stub",
+    "common",
+    "examples/hello_world",
+    "examples/calc_launcher",
+    "examples/suspicious_poc"
+]
+resolver = "2"
