@@ -3,7 +3,6 @@
 ![Rust](https://img.shields.io/badge/language-Rust-orange.svg) 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Production--Ready-success.svg)
-![Detection](https://img.shields.io/badge/Detection-3%2F71-brightgreen.svg)
 
 A high-performance, stealth-focused Rust crypter designed for Windows environments. This framework utilizes **AES-128 encryption**, **reflective memory loading**, and **advanced behavioral evasion** to facilitate the secure execution of PE files without disk interaction.
 
